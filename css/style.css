@@ -1,0 +1,75 @@
+
+body{
+    font: 20px Arial, sans-serif;
+} 
+    
+.navbar {
+    background-color:#63dd82;
+}
+
+.name{
+    font-size: 30px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    color: white;
+}
+
+.title{
+    margin-top: 5px;
+    margin-bottom: 20px;
+    color: white;
+       
+}
+
+.CAEtitle{
+    font-size: 20px;
+    color: white;
+}
+
+.CAEdescription{
+    margin-top: 5px;
+    font-size: 20px;
+    text-justify: auto;
+    color: white;
+
+}
+
+.paragraf{
+    font-size: 20px;
+    padding-left: 250px;
+    padding-right: 250px;
+    margin-top: 5px;
+    text-align: justify;
+    color: white;
+
+}
+.quemsomos{
+    background-color: #7695d7;
+    color: black;
+}
+
+.parceiros{
+    background-color: #76b8d7;
+    color: black;
+}
+
+.Digitaltitle{
+    font-size: 20px;
+    color: black;
+}
+.Digitaldescription{
+    margin-top: 5px;
+    font-size: 20px;
+    text-justify: auto;
+    color: black;
+}
+
+.margin{
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white
+}
