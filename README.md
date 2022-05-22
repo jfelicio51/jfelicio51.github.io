@@ -1,6 +1,6 @@
-#  :chart_with_upwards_trend: Bootstrap Learning Project
+#  :chart_with_upwards_trend: My Portfolio of Projects in Engineering and Digital Transformation.
 >
-## Purpose: Code site page applying concepts of Bootstrap.
+## Purpose: Code my Portfolio of Projects in Engineering and Digital Transformation using HTML5 / CSS3 / Bootstrap.
 
-### **#carrefourwebdeveloperdio**  
+  
 
